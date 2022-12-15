@@ -1,0 +1,7 @@
+.description {
+  display: flex;
+  flex-direction: row;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  justify-content: center;
+}
