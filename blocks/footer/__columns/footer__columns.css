@@ -1,5 +1,5 @@
 .footer__columns {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between; /* по всей ширине контейнера https://doka.guide/html/img/ */
   width: 90%;
 }

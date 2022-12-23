@@ -1,5 +1,7 @@
 .table__cell_theme_dark {
+  margin-right: 0;
   width: 200px;
   margin-top: 80px;
+  color: white;
   padding: 5px;
 }
