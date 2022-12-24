@@ -24,7 +24,6 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__img/kaufman__img.css);
 
-@import url(../blocks/kaufman/kaufman__img/kaufman__img.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
@@ -52,7 +51,7 @@
 
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column_links/footer__column_links.css);
-@import url(../blocks/footer/__column-links/footer__column-links.css);
+
 @import url(../blocks/footer/__column_content_info/footer__column_content_info.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__author/footer__author.css);
